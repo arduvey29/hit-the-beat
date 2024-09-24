@@ -19,9 +19,6 @@ A simple interactive drum kit built with HTML, CSS, and JavaScript. Play your fa
 - Responsive design for various devices.
 - Visual feedback when a sound is played.
 
-## Demo
-
-![Drum Kit Demo](link-to-your-demo-image-or-gif)
 
 ## Technologies Used
 
